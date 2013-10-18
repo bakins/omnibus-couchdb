@@ -1,0 +1,9 @@
+#!/bin/bash
+#
+# Perform necessary couchdb removal steps
+# after package is uninstalled.
+#
+
+echo "couchdb has been uninstalled!"
+
+exit 0
